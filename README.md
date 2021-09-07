@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @buzzninja
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning https://www.udemy.com/course/android_prof/
+- 📫 How to reach me: Telegram @Dimoon105
